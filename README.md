@@ -2,7 +2,7 @@
 This is the place where I make some experiments :rofl:
 
 - 🔭 &nbsp;I’m currently working on something new, always studying :wink:
-- 🌱 &nbsp;I’m currently learning JAVA and Python to make some robots :robot:
+- 🌱 &nbsp;I’m currently learning BPMN and building some robots :robot:
 - 👨‍💻 &nbsp;How to reache me: evemurta23@gmail.com
 - ⚡ &nbsp;Fun fact: I :black_heart: :paw_prints:	 and :seedling:	and :video_game:
 
